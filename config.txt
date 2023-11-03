@@ -1,0 +1,5 @@
+
+PROJECT_NAME=depends
+depends_VERSION_MAJOR=2
+depends_VERSION_MINOR=2
+depends_VERSION_PATCH=6000
