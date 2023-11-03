@@ -12,7 +12,7 @@
     "bin": "depends.exe",
     "shortcuts": [
         [
-            "depends.exe",
+            "depends.bat",
             "depends"
         ]
     ],
