@@ -1,8 +1,8 @@
-# RepoName
+# depends
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/depends
 ```
 
